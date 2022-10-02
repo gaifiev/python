@@ -4,11 +4,11 @@
 from random import randint
 
 with open('file.txt', 'w') as data:
-    data.write('2\n')
+    data.write('0\n')
     data.write('2\n')
     data.write('4\n')
     data.write('8\n')
-    data.write('8\n')
+    data.write('9\n')
 
 
 def get_numbers(n):
