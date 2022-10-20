@@ -6,7 +6,7 @@ import logmod
 
 def start():
     if modif.mod() == '1':
-        info = modif.export()
+        info = modif.export1()
         export.export2(info)
         logmod.log(info)
     else:
