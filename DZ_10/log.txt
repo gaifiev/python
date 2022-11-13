@@ -1,0 +1,34 @@
+������ �� ������������: /formula 1+2+4*2
+��������� ����������: 11
+������ �� ������������: /formula 4-5+10^2
+��������� ����������: 99
+������ �� ������������: /formula 5^2*3+23
+��������� ����������: 98
+������ �� ������������: /formula 5^2
+Result: 25
+������ �� ������������: /formula sin(10) + 23
+Result: sin(10) + 23
+������ �� ������������: /formula 2*sin(x)*cos(x) + cos(2*x)
+Result: sqrt(2)*sin(2*x + pi/4)
+������ �� ������������: /formula 2+3+4^2/2-10
+Result: 3
+User request: /formula 2+3+4^2/2-10
+Result: 3
+User request: /formula 2+3/3^24
+Result: 188286357655/94143178827
+
+
+User request: /hello
+User request: ���� ����� ������
+User request: /hello
+User request: ���� ����� ������
+User request: /hello
+Hi, ���� ����� ������
+User request: /hello
+Hi, ���� ����� ������
+User request: /help
+User request: /help
+User request: /help
+User request: /help
+User request: /formula 2+3^2
+Result: 11
